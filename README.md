@@ -7,11 +7,11 @@ Power BI is a business analytics service by Microsoft. It aims to provide intera
 
 # Why did I choose Power BI?
 
-It's easy to connect data
-It's powerful and Excel-like
-It has DAX and M programming language
-Native R and Python integration
-Extremely easy to use
-Wide use around the world
+* It's easy to connect data
+* It's powerful and Excel-like
+* It has DAX and M programming language
+* Native R and Python integration
+* Extremely easy to use
+* Wide use around the world
 
-# Please take a look around this repository and view some of my favorite dashboard and report creations.
+### Please take a look around this repository and view some of my favorite dashboard and report creations.
